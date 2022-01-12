@@ -26,7 +26,7 @@ const App = () => {
       desc={FULLDESC}
       data={FullStack}/>
        <ProductList 
-      head="FULL STACK PROJECTS"
+      head="FRONT-END PROJECTS"
       desc={FrontDESC}
       data={FrontEND}/>
       <Contact />

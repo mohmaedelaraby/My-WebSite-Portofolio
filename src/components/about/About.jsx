@@ -21,10 +21,10 @@ const About = () => {
         Welcome to My Portofolio.
         </p>
         <p className="a-desc">
-        I'm a fresh graduated who looking forward to improve my skils although I am a fast learner 
-                and knows more than programming language like c#,  c++, js, java, and python and more than framework
+        I'm a fresh graduated who looking forward to improve my skils,  I'm a fast learner 
+                and knows more than programming languages like c#,  c++, js, java, and python and more than framework
                 node.js & express.js as backend and experienced at HTML, CSS, JS and Responsive design and worked with 
-                react.js asfront-end and strong with dealing with database both SQL postgres and NOSQL mongo db and all 
+                react.js as front-end and strong with dealing with database both SQL postgres and NOSQL mongo db and all 
                 by self learning and i'm so eager to learn more about tech industry
         </p>
         

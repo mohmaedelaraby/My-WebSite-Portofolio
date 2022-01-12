@@ -9,6 +9,7 @@
 a{
   text-decoration: none;
   color: black;
+  font-size: 12px;
 }
 a:hover{
   color: #525252;

@@ -40,7 +40,7 @@ const Contact = () => {
             <a href='https://mail.google.com/mail/u/?authuser=user@gmail.com' target="_blank"
                            rel="noreferrer">
               <img className="c-icon" src={Email} alt="" /></a>
-              Elarabym857@gmsil.com
+              Elarabym857@gmail.com
             </div>
            
             <div className="c-info-item">

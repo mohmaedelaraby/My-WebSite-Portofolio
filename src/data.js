@@ -10,7 +10,7 @@ import  product7 from '../src/img/7.png';
 import product8 from '../src/img/7.png';
 
 
-export const FrontDESC =" creative portfolio that your show my works .Beautiful Responsive Website with diffrent styles and animations "
+export const FrontDESC =" creative portfolio that your show my works .Beautiful Responsive Website with diffrent styles and animations"
 export const FULLDESC =" Full Functionality Apps of development of both front end(React.js) and back end(Node.js) portions of web application"
 export const BackDESC =" Server-side web application With Node.js APIs(REST) Connecting With DataBase (MongoDB) "
 

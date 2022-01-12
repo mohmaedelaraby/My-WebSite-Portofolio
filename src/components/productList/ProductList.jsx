@@ -9,6 +9,8 @@ const ProductList = ({head,desc,data}) => {
         <h1 className="pl-title">{head}</h1>
         <p className="pl-desc">
           {desc}.
+          <br/>
+          Click on Project And <strong>Watch IT</strong> Closely
         </p>
       </div>
       <div className="pl-list">
